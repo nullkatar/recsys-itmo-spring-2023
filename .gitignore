@@ -30,3 +30,6 @@ botify/log/*
 *.synctex.gz
 *.nav
 *.snm
+log/
+new_log/
+*.npy
